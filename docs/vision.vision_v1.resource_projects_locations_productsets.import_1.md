@@ -15,9 +15,9 @@ import(params?: Params$Resource$Projects$Locations$Productsets$Import, options?:
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Productsets$Import](./vision.vision_v1.params_resource_projects_locations_productsets_import.md) |  |
-|  options | MethodOptions |  |
+|  options | [MethodOptions](./vision.methodoptions.md) |  |
 
 <b>Returns:</b>
 
-GaxiosPromise&lt;[Schema$Operation](./vision.vision_v1.schema_operation.md)<!-- -->&gt;
+[GaxiosPromise](./vision.gaxiospromise.md)<!-- -->&lt;[Schema$Operation](./vision.vision_v1.schema_operation.md)<!-- -->&gt;
 

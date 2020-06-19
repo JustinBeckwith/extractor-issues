@@ -15,8 +15,8 @@ get(params: Params$Resource$Projects$Operations$Get, options: MethodOptions | Bo
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Operations$Get](./vision.vision_v1.params_resource_projects_operations_get.md) |  |
-|  options | MethodOptions \| BodyResponseCallback&lt;[Schema$Operation](./vision.vision_v1.schema_operation.md)<!-- -->&gt; |  |
-|  callback | BodyResponseCallback&lt;[Schema$Operation](./vision.vision_v1.schema_operation.md)<!-- -->&gt; |  |
+|  options | [MethodOptions](./vision.methodoptions.md) \| [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Operation](./vision.vision_v1.schema_operation.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Operation](./vision.vision_v1.schema_operation.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

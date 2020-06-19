@@ -15,9 +15,9 @@ annotate(params?: Params$Resource$Images$Annotate, options?: MethodOptions): Gax
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Images$Annotate](./vision.vision_v1p1beta1.params_resource_images_annotate.md) |  |
-|  options | MethodOptions |  |
+|  options | [MethodOptions](./vision.methodoptions.md) |  |
 
 <b>Returns:</b>
 
-GaxiosPromise&lt;[Schema$GoogleCloudVisionV1p1beta1BatchAnnotateImagesResponse](./vision.vision_v1p1beta1.schema_googlecloudvisionv1p1beta1batchannotateimagesresponse.md)<!-- -->&gt;
+[GaxiosPromise](./vision.gaxiospromise.md)<!-- -->&lt;[Schema$GoogleCloudVisionV1p1beta1BatchAnnotateImagesResponse](./vision.vision_v1p1beta1.schema_googlecloudvisionv1p1beta1batchannotateimagesresponse.md)<!-- -->&gt;
 

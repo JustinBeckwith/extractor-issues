@@ -15,8 +15,8 @@ delete(params: Params$Resource$Operations$Delete, options: MethodOptions | BodyR
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Operations$Delete](./vision.vision_v1.params_resource_operations_delete.md) |  |
-|  options | MethodOptions \| BodyResponseCallback&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt; |  |
-|  callback | BodyResponseCallback&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt; |  |
+|  options | [MethodOptions](./vision.methodoptions.md) \| [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

@@ -15,9 +15,9 @@ delete(params?: Params$Resource$Operations$Delete, options?: MethodOptions): Gax
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Operations$Delete](./vision.vision_v1.params_resource_operations_delete.md) |  |
-|  options | MethodOptions |  |
+|  options | [MethodOptions](./vision.methodoptions.md) |  |
 
 <b>Returns:</b>
 
-GaxiosPromise&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt;
+[GaxiosPromise](./vision.gaxiospromise.md)<!-- -->&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt;
 

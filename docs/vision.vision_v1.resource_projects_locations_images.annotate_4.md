@@ -15,7 +15,7 @@ annotate(params: Params$Resource$Projects$Locations$Images$Annotate, callback: B
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Images$Annotate](./vision.vision_v1.params_resource_projects_locations_images_annotate.md) |  |
-|  callback | BodyResponseCallback&lt;[Schema$BatchAnnotateImagesResponse](./vision.vision_v1.schema_batchannotateimagesresponse.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$BatchAnnotateImagesResponse](./vision.vision_v1.schema_batchannotateimagesresponse.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

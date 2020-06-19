@@ -14,7 +14,7 @@ list(callback: BodyResponseCallback<Schema$ListOperationsResponse>): void;
 
 |  Parameter | Type | Description |
 |  --- | --- | --- |
-|  callback | BodyResponseCallback&lt;[Schema$ListOperationsResponse](./vision.vision_v1.schema_listoperationsresponse.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$ListOperationsResponse](./vision.vision_v1.schema_listoperationsresponse.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

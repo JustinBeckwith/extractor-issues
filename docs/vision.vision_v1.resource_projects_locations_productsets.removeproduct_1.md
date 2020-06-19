@@ -15,9 +15,9 @@ removeProduct(params?: Params$Resource$Projects$Locations$Productsets$Removeprod
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Productsets$Removeproduct](./vision.vision_v1.params_resource_projects_locations_productsets_removeproduct.md) |  |
-|  options | MethodOptions |  |
+|  options | [MethodOptions](./vision.methodoptions.md) |  |
 
 <b>Returns:</b>
 
-GaxiosPromise&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt;
+[GaxiosPromise](./vision.gaxiospromise.md)<!-- -->&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt;
 

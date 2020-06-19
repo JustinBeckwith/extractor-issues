@@ -15,9 +15,9 @@ get(params?: Params$Resource$Projects$Locations$Products$Get, options?: MethodOp
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Products$Get](./vision.vision_v1.params_resource_projects_locations_products_get.md) |  |
-|  options | MethodOptions |  |
+|  options | [MethodOptions](./vision.methodoptions.md) |  |
 
 <b>Returns:</b>
 
-GaxiosPromise&lt;[Schema$Product](./vision.vision_v1.schema_product.md)<!-- -->&gt;
+[GaxiosPromise](./vision.gaxiospromise.md)<!-- -->&lt;[Schema$Product](./vision.vision_v1.schema_product.md)<!-- -->&gt;
 

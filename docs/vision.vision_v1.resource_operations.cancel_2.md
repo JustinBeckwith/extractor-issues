@@ -15,8 +15,8 @@ cancel(params: Params$Resource$Operations$Cancel, options: StreamMethodOptions |
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Operations$Cancel](./vision.vision_v1.params_resource_operations_cancel.md) |  |
-|  options | StreamMethodOptions \| BodyResponseCallback&lt;Readable&gt; |  |
-|  callback | BodyResponseCallback&lt;Readable&gt; |  |
+|  options | [StreamMethodOptions](./vision.streammethodoptions.md) \| [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;Readable&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;Readable&gt; |  |
 
 <b>Returns:</b>
 

@@ -14,6 +14,6 @@ export interface APIRequestContext
 
 |  Property | Type | Description |
 |  --- | --- | --- |
-|  [\_options](./vision.apirequestcontext._options.md) | GlobalOptions |  |
-|  [google](./vision.apirequestcontext.google.md) | GoogleConfigurable |  |
+|  [\_options](./vision.apirequestcontext._options.md) | [GlobalOptions](./vision.globaloptions.md) |  |
+|  [google](./vision.apirequestcontext.google.md) | [GoogleConfigurable](./vision.googleconfigurable.md) |  |
 

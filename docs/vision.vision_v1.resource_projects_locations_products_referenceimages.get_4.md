@@ -15,7 +15,7 @@ get(params: Params$Resource$Projects$Locations$Products$Referenceimages$Get, cal
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Products$Referenceimages$Get](./vision.vision_v1.params_resource_projects_locations_products_referenceimages_get.md) |  |
-|  callback | BodyResponseCallback&lt;[Schema$ReferenceImage](./vision.vision_v1.schema_referenceimage.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$ReferenceImage](./vision.vision_v1.schema_referenceimage.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

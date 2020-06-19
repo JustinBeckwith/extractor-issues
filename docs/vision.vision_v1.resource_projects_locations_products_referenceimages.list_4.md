@@ -15,7 +15,7 @@ list(params: Params$Resource$Projects$Locations$Products$Referenceimages$List, c
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Products$Referenceimages$List](./vision.vision_v1.params_resource_projects_locations_products_referenceimages_list.md) |  |
-|  callback | BodyResponseCallback&lt;[Schema$ListReferenceImagesResponse](./vision.vision_v1.schema_listreferenceimagesresponse.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$ListReferenceImagesResponse](./vision.vision_v1.schema_listreferenceimagesresponse.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

@@ -15,8 +15,8 @@ patch(params: Params$Resource$Projects$Locations$Productsets$Patch, options: Met
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Productsets$Patch](./vision.vision_v1.params_resource_projects_locations_productsets_patch.md) |  |
-|  options | MethodOptions \| BodyResponseCallback&lt;[Schema$ProductSet](./vision.vision_v1.schema_productset.md)<!-- -->&gt; |  |
-|  callback | BodyResponseCallback&lt;[Schema$ProductSet](./vision.vision_v1.schema_productset.md)<!-- -->&gt; |  |
+|  options | [MethodOptions](./vision.methodoptions.md) \| [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$ProductSet](./vision.vision_v1.schema_productset.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$ProductSet](./vision.vision_v1.schema_productset.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

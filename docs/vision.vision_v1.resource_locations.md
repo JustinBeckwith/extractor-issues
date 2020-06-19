@@ -20,6 +20,6 @@ export class Resource$Locations
 
 |  Property | Modifiers | Type | Description |
 |  --- | --- | --- | --- |
-|  [context](./vision.vision_v1.resource_locations.context.md) |  | APIRequestContext |  |
+|  [context](./vision.vision_v1.resource_locations.context.md) |  | [APIRequestContext](./vision.apirequestcontext.md) |  |
 |  [operations](./vision.vision_v1.resource_locations.operations.md) |  | [Resource$Locations$Operations](./vision.vision_v1.resource_locations_operations.md) |  |
 

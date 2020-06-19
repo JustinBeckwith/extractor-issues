@@ -15,9 +15,9 @@ annotate(params?: Params$Resource$Projects$Locations$Images$Annotate, options?: 
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Images$Annotate](./vision.vision_v1.params_resource_projects_locations_images_annotate.md) |  |
-|  options | MethodOptions |  |
+|  options | [MethodOptions](./vision.methodoptions.md) |  |
 
 <b>Returns:</b>
 
-GaxiosPromise&lt;[Schema$BatchAnnotateImagesResponse](./vision.vision_v1.schema_batchannotateimagesresponse.md)<!-- -->&gt;
+[GaxiosPromise](./vision.gaxiospromise.md)<!-- -->&lt;[Schema$BatchAnnotateImagesResponse](./vision.vision_v1.schema_batchannotateimagesresponse.md)<!-- -->&gt;
 

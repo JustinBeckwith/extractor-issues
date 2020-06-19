@@ -15,8 +15,8 @@ annotate(params: Params$Resource$Projects$Files$Annotate, options: StreamMethodO
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Files$Annotate](./vision.vision_v1p2beta1.params_resource_projects_files_annotate.md) |  |
-|  options | StreamMethodOptions \| BodyResponseCallback&lt;Readable&gt; |  |
-|  callback | BodyResponseCallback&lt;Readable&gt; |  |
+|  options | [StreamMethodOptions](./vision.streammethodoptions.md) \| [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;Readable&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;Readable&gt; |  |
 
 <b>Returns:</b>
 

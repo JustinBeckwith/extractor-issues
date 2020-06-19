@@ -33,7 +33,7 @@ const vision = google.vision('v1p2beta1');
 
 |  Property | Modifiers | Type | Description |
 |  --- | --- | --- | --- |
-|  [context](./vision.vision_v1p2beta1.vision.context.md) |  | APIRequestContext |  |
+|  [context](./vision.vision_v1p2beta1.vision.context.md) |  | [APIRequestContext](./vision.apirequestcontext.md) |  |
 |  [files](./vision.vision_v1p2beta1.vision.files.md) |  | [Resource$Files](./vision.vision_v1p2beta1.resource_files.md) |  |
 |  [images](./vision.vision_v1p2beta1.vision.images.md) |  | [Resource$Images](./vision.vision_v1p2beta1.resource_images.md) |  |
 |  [projects](./vision.vision_v1p2beta1.vision.projects.md) |  | [Resource$Projects](./vision.vision_v1p2beta1.resource_projects.md) |  |

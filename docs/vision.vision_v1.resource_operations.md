@@ -20,7 +20,7 @@ export class Resource$Operations
 
 |  Property | Modifiers | Type | Description |
 |  --- | --- | --- | --- |
-|  [context](./vision.vision_v1.resource_operations.context.md) |  | APIRequestContext |  |
+|  [context](./vision.vision_v1.resource_operations.context.md) |  | [APIRequestContext](./vision.apirequestcontext.md) |  |
 
 ## Methods
 

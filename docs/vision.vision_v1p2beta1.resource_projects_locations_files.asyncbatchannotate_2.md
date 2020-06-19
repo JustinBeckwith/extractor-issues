@@ -15,8 +15,8 @@ asyncBatchAnnotate(params: Params$Resource$Projects$Locations$Files$Asyncbatchan
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Files$Asyncbatchannotate](./vision.vision_v1p2beta1.params_resource_projects_locations_files_asyncbatchannotate.md) |  |
-|  options | StreamMethodOptions \| BodyResponseCallback&lt;Readable&gt; |  |
-|  callback | BodyResponseCallback&lt;Readable&gt; |  |
+|  options | [StreamMethodOptions](./vision.streammethodoptions.md) \| [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;Readable&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;Readable&gt; |  |
 
 <b>Returns:</b>
 

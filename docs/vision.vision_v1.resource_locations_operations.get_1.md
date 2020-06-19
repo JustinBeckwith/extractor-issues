@@ -15,9 +15,9 @@ get(params?: Params$Resource$Locations$Operations$Get, options?: MethodOptions):
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Locations$Operations$Get](./vision.vision_v1.params_resource_locations_operations_get.md) |  |
-|  options | MethodOptions |  |
+|  options | [MethodOptions](./vision.methodoptions.md) |  |
 
 <b>Returns:</b>
 
-GaxiosPromise&lt;[Schema$Operation](./vision.vision_v1.schema_operation.md)<!-- -->&gt;
+[GaxiosPromise](./vision.gaxiospromise.md)<!-- -->&lt;[Schema$Operation](./vision.vision_v1.schema_operation.md)<!-- -->&gt;
 

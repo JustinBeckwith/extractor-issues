@@ -14,7 +14,7 @@ removeProduct(callback: BodyResponseCallback<Schema$Empty>): void;
 
 |  Parameter | Type | Description |
 |  --- | --- | --- |
-|  callback | BodyResponseCallback&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

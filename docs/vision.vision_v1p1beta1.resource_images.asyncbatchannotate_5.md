@@ -14,7 +14,7 @@ asyncBatchAnnotate(callback: BodyResponseCallback<Schema$Operation>): void;
 
 |  Parameter | Type | Description |
 |  --- | --- | --- |
-|  callback | BodyResponseCallback&lt;[Schema$Operation](./vision.vision_v1p1beta1.schema_operation.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Operation](./vision.vision_v1p1beta1.schema_operation.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

@@ -14,7 +14,7 @@ get(callback: BodyResponseCallback<Schema$ReferenceImage>): void;
 
 |  Parameter | Type | Description |
 |  --- | --- | --- |
-|  callback | BodyResponseCallback&lt;[Schema$ReferenceImage](./vision.vision_v1.schema_referenceimage.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$ReferenceImage](./vision.vision_v1.schema_referenceimage.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

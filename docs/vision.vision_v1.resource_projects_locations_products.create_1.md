@@ -15,9 +15,9 @@ create(params?: Params$Resource$Projects$Locations$Products$Create, options?: Me
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Products$Create](./vision.vision_v1.params_resource_projects_locations_products_create.md) |  |
-|  options | MethodOptions |  |
+|  options | [MethodOptions](./vision.methodoptions.md) |  |
 
 <b>Returns:</b>
 
-GaxiosPromise&lt;[Schema$Product](./vision.vision_v1.schema_product.md)<!-- -->&gt;
+[GaxiosPromise](./vision.gaxiospromise.md)<!-- -->&lt;[Schema$Product](./vision.vision_v1.schema_product.md)<!-- -->&gt;
 

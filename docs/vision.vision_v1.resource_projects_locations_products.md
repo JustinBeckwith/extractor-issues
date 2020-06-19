@@ -20,7 +20,7 @@ export class Resource$Projects$Locations$Products
 
 |  Property | Modifiers | Type | Description |
 |  --- | --- | --- | --- |
-|  [context](./vision.vision_v1.resource_projects_locations_products.context.md) |  | APIRequestContext |  |
+|  [context](./vision.vision_v1.resource_projects_locations_products.context.md) |  | [APIRequestContext](./vision.apirequestcontext.md) |  |
 |  [referenceImages](./vision.vision_v1.resource_projects_locations_products.referenceimages.md) |  | [Resource$Projects$Locations$Products$Referenceimages](./vision.vision_v1.resource_projects_locations_products_referenceimages.md) |  |
 
 ## Methods

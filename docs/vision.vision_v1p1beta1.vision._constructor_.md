@@ -16,6 +16,6 @@ constructor(options: GlobalOptions, google?: GoogleConfigurable);
 
 |  Parameter | Type | Description |
 |  --- | --- | --- |
-|  options | GlobalOptions |  |
-|  google | GoogleConfigurable |  |
+|  options | [GlobalOptions](./vision.globaloptions.md) |  |
+|  google | [GoogleConfigurable](./vision.googleconfigurable.md) |  |
 

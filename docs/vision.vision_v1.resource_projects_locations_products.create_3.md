@@ -15,8 +15,8 @@ create(params: Params$Resource$Projects$Locations$Products$Create, options: Meth
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Products$Create](./vision.vision_v1.params_resource_projects_locations_products_create.md) |  |
-|  options | MethodOptions \| BodyResponseCallback&lt;[Schema$Product](./vision.vision_v1.schema_product.md)<!-- -->&gt; |  |
-|  callback | BodyResponseCallback&lt;[Schema$Product](./vision.vision_v1.schema_product.md)<!-- -->&gt; |  |
+|  options | [MethodOptions](./vision.methodoptions.md) \| [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Product](./vision.vision_v1.schema_product.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Product](./vision.vision_v1.schema_product.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

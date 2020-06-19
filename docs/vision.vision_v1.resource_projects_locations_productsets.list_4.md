@@ -15,7 +15,7 @@ list(params: Params$Resource$Projects$Locations$Productsets$List, callback: Body
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Productsets$List](./vision.vision_v1.params_resource_projects_locations_productsets_list.md) |  |
-|  callback | BodyResponseCallback&lt;[Schema$ListProductSetsResponse](./vision.vision_v1.schema_listproductsetsresponse.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$ListProductSetsResponse](./vision.vision_v1.schema_listproductsetsresponse.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

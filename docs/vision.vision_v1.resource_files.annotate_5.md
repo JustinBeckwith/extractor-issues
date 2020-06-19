@@ -14,7 +14,7 @@ annotate(callback: BodyResponseCallback<Schema$BatchAnnotateFilesResponse>): voi
 
 |  Parameter | Type | Description |
 |  --- | --- | --- |
-|  callback | BodyResponseCallback&lt;[Schema$BatchAnnotateFilesResponse](./vision.vision_v1.schema_batchannotatefilesresponse.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$BatchAnnotateFilesResponse](./vision.vision_v1.schema_batchannotatefilesresponse.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

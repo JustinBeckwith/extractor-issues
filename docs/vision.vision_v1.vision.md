@@ -33,7 +33,7 @@ const vision = google.vision('v1');
 
 |  Property | Modifiers | Type | Description |
 |  --- | --- | --- | --- |
-|  [context](./vision.vision_v1.vision.context.md) |  | APIRequestContext |  |
+|  [context](./vision.vision_v1.vision.context.md) |  | [APIRequestContext](./vision.apirequestcontext.md) |  |
 |  [files](./vision.vision_v1.vision.files.md) |  | [Resource$Files](./vision.vision_v1.resource_files.md) |  |
 |  [images](./vision.vision_v1.vision.images.md) |  | [Resource$Images](./vision.vision_v1.resource_images.md) |  |
 |  [locations](./vision.vision_v1.vision.locations.md) |  | [Resource$Locations](./vision.vision_v1.resource_locations.md) |  |

@@ -16,5 +16,5 @@ constructor(context: APIRequestContext);
 
 |  Parameter | Type | Description |
 |  --- | --- | --- |
-|  context | APIRequestContext |  |
+|  context | [APIRequestContext](./vision.apirequestcontext.md) |  |
 

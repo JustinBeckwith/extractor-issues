@@ -15,9 +15,9 @@ annotate(params?: Params$Resource$Projects$Locations$Files$Annotate, options?: M
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Files$Annotate](./vision.vision_v1p2beta1.params_resource_projects_locations_files_annotate.md) |  |
-|  options | MethodOptions |  |
+|  options | [MethodOptions](./vision.methodoptions.md) |  |
 
 <b>Returns:</b>
 
-GaxiosPromise&lt;[Schema$GoogleCloudVisionV1p2beta1BatchAnnotateFilesResponse](./vision.vision_v1p2beta1.schema_googlecloudvisionv1p2beta1batchannotatefilesresponse.md)<!-- -->&gt;
+[GaxiosPromise](./vision.gaxiospromise.md)<!-- -->&lt;[Schema$GoogleCloudVisionV1p2beta1BatchAnnotateFilesResponse](./vision.vision_v1p2beta1.schema_googlecloudvisionv1p2beta1batchannotatefilesresponse.md)<!-- -->&gt;
 

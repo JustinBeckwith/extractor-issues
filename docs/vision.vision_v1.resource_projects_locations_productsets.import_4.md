@@ -15,7 +15,7 @@ import(params: Params$Resource$Projects$Locations$Productsets$Import, callback: 
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Productsets$Import](./vision.vision_v1.params_resource_projects_locations_productsets_import.md) |  |
-|  callback | BodyResponseCallback&lt;[Schema$Operation](./vision.vision_v1.schema_operation.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Operation](./vision.vision_v1.schema_operation.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

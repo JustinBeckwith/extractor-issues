@@ -15,8 +15,8 @@ get(params: Params$Resource$Projects$Locations$Products$Get, options: MethodOpti
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Products$Get](./vision.vision_v1.params_resource_projects_locations_products_get.md) |  |
-|  options | MethodOptions \| BodyResponseCallback&lt;[Schema$Product](./vision.vision_v1.schema_product.md)<!-- -->&gt; |  |
-|  callback | BodyResponseCallback&lt;[Schema$Product](./vision.vision_v1.schema_product.md)<!-- -->&gt; |  |
+|  options | [MethodOptions](./vision.methodoptions.md) \| [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Product](./vision.vision_v1.schema_product.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Product](./vision.vision_v1.schema_product.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

@@ -20,7 +20,7 @@ export class Resource$Projects
 
 |  Property | Modifiers | Type | Description |
 |  --- | --- | --- | --- |
-|  [context](./vision.vision_v1.resource_projects.context.md) |  | APIRequestContext |  |
+|  [context](./vision.vision_v1.resource_projects.context.md) |  | [APIRequestContext](./vision.apirequestcontext.md) |  |
 |  [files](./vision.vision_v1.resource_projects.files.md) |  | [Resource$Projects$Files](./vision.vision_v1.resource_projects_files.md) |  |
 |  [images](./vision.vision_v1.resource_projects.images.md) |  | [Resource$Projects$Images](./vision.vision_v1.resource_projects_images.md) |  |
 |  [locations](./vision.vision_v1.resource_projects.locations.md) |  | [Resource$Projects$Locations](./vision.vision_v1.resource_projects_locations.md) |  |

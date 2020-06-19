@@ -23,11 +23,11 @@ addProduct(params: Params$Resource$Projects$Locations$Productsets$Addproduct, op
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Productsets$Addproduct](./vision.vision_v1.params_resource_projects_locations_productsets_addproduct.md) | Parameters for request |
-|  options | StreamMethodOptions | Optionally override request options, such as <code>url</code>, <code>method</code>, and <code>encoding</code>. |
+|  options | [StreamMethodOptions](./vision.streammethodoptions.md) | Optionally override request options, such as <code>url</code>, <code>method</code>, and <code>encoding</code>. |
 
 <b>Returns:</b>
 
-GaxiosPromise&lt;Readable&gt;
+[GaxiosPromise](./vision.gaxiospromise.md)<!-- -->&lt;Readable&gt;
 
 A promise if used with async/await, or void if used with a callback.
 

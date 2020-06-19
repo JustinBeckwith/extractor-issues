@@ -15,8 +15,8 @@ delete(params: Params$Resource$Projects$Locations$Products$Referenceimages$Delet
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Products$Referenceimages$Delete](./vision.vision_v1.params_resource_projects_locations_products_referenceimages_delete.md) |  |
-|  options | MethodOptions \| BodyResponseCallback&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt; |  |
-|  callback | BodyResponseCallback&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt; |  |
+|  options | [MethodOptions](./vision.methodoptions.md) \| [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

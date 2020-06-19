@@ -15,8 +15,8 @@ create(params: Params$Resource$Projects$Locations$Products$Create, options: Stre
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Products$Create](./vision.vision_v1.params_resource_projects_locations_products_create.md) |  |
-|  options | StreamMethodOptions \| BodyResponseCallback&lt;Readable&gt; |  |
-|  callback | BodyResponseCallback&lt;Readable&gt; |  |
+|  options | [StreamMethodOptions](./vision.streammethodoptions.md) \| [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;Readable&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;Readable&gt; |  |
 
 <b>Returns:</b>
 

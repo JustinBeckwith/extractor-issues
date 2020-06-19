@@ -14,7 +14,7 @@ patch(callback: BodyResponseCallback<Schema$ProductSet>): void;
 
 |  Parameter | Type | Description |
 |  --- | --- | --- |
-|  callback | BodyResponseCallback&lt;[Schema$ProductSet](./vision.vision_v1.schema_productset.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$ProductSet](./vision.vision_v1.schema_productset.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

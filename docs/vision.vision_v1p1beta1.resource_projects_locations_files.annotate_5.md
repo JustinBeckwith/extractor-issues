@@ -14,7 +14,7 @@ annotate(callback: BodyResponseCallback<Schema$GoogleCloudVisionV1p1beta1BatchAn
 
 |  Parameter | Type | Description |
 |  --- | --- | --- |
-|  callback | BodyResponseCallback&lt;[Schema$GoogleCloudVisionV1p1beta1BatchAnnotateFilesResponse](./vision.vision_v1p1beta1.schema_googlecloudvisionv1p1beta1batchannotatefilesresponse.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$GoogleCloudVisionV1p1beta1BatchAnnotateFilesResponse](./vision.vision_v1p1beta1.schema_googlecloudvisionv1p1beta1batchannotatefilesresponse.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

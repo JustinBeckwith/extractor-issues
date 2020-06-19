@@ -15,8 +15,8 @@ annotate(params: Params$Resource$Projects$Files$Annotate, options: MethodOptions
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Files$Annotate](./vision.vision_v1p2beta1.params_resource_projects_files_annotate.md) |  |
-|  options | MethodOptions \| BodyResponseCallback&lt;[Schema$GoogleCloudVisionV1p2beta1BatchAnnotateFilesResponse](./vision.vision_v1p2beta1.schema_googlecloudvisionv1p2beta1batchannotatefilesresponse.md)<!-- -->&gt; |  |
-|  callback | BodyResponseCallback&lt;[Schema$GoogleCloudVisionV1p2beta1BatchAnnotateFilesResponse](./vision.vision_v1p2beta1.schema_googlecloudvisionv1p2beta1batchannotatefilesresponse.md)<!-- -->&gt; |  |
+|  options | [MethodOptions](./vision.methodoptions.md) \| [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$GoogleCloudVisionV1p2beta1BatchAnnotateFilesResponse](./vision.vision_v1p2beta1.schema_googlecloudvisionv1p2beta1batchannotatefilesresponse.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$GoogleCloudVisionV1p2beta1BatchAnnotateFilesResponse](./vision.vision_v1p2beta1.schema_googlecloudvisionv1p2beta1batchannotatefilesresponse.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

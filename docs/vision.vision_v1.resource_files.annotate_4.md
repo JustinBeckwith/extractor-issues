@@ -15,7 +15,7 @@ annotate(params: Params$Resource$Files$Annotate, callback: BodyResponseCallback<
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Files$Annotate](./vision.vision_v1.params_resource_files_annotate.md) |  |
-|  callback | BodyResponseCallback&lt;[Schema$BatchAnnotateFilesResponse](./vision.vision_v1.schema_batchannotatefilesresponse.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$BatchAnnotateFilesResponse](./vision.vision_v1.schema_batchannotatefilesresponse.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

@@ -14,7 +14,7 @@ get(callback: BodyResponseCallback<Schema$Product>): void;
 
 |  Parameter | Type | Description |
 |  --- | --- | --- |
-|  callback | BodyResponseCallback&lt;[Schema$Product](./vision.vision_v1.schema_product.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Product](./vision.vision_v1.schema_product.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

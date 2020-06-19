@@ -15,7 +15,7 @@ patch(params: Params$Resource$Projects$Locations$Productsets$Patch, callback: Bo
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Productsets$Patch](./vision.vision_v1.params_resource_projects_locations_productsets_patch.md) |  |
-|  callback | BodyResponseCallback&lt;[Schema$ProductSet](./vision.vision_v1.schema_productset.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$ProductSet](./vision.vision_v1.schema_productset.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

@@ -15,7 +15,7 @@ removeProduct(params: Params$Resource$Projects$Locations$Productsets$Removeprodu
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Productsets$Removeproduct](./vision.vision_v1.params_resource_projects_locations_productsets_removeproduct.md) |  |
-|  callback | BodyResponseCallback&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

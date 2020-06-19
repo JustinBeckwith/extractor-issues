@@ -15,8 +15,8 @@ create(params: Params$Resource$Projects$Locations$Products$Referenceimages$Creat
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Products$Referenceimages$Create](./vision.vision_v1.params_resource_projects_locations_products_referenceimages_create.md) |  |
-|  options | MethodOptions \| BodyResponseCallback&lt;[Schema$ReferenceImage](./vision.vision_v1.schema_referenceimage.md)<!-- -->&gt; |  |
-|  callback | BodyResponseCallback&lt;[Schema$ReferenceImage](./vision.vision_v1.schema_referenceimage.md)<!-- -->&gt; |  |
+|  options | [MethodOptions](./vision.methodoptions.md) \| [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$ReferenceImage](./vision.vision_v1.schema_referenceimage.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$ReferenceImage](./vision.vision_v1.schema_referenceimage.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

@@ -15,7 +15,7 @@ annotate(params: Params$Resource$Images$Annotate, callback: BodyResponseCallback
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Images$Annotate](./vision.vision_v1.params_resource_images_annotate.md) |  |
-|  callback | BodyResponseCallback&lt;[Schema$BatchAnnotateImagesResponse](./vision.vision_v1.schema_batchannotateimagesresponse.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$BatchAnnotateImagesResponse](./vision.vision_v1.schema_batchannotateimagesresponse.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

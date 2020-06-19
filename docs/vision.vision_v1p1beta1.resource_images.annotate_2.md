@@ -15,8 +15,8 @@ annotate(params: Params$Resource$Images$Annotate, options: StreamMethodOptions |
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Images$Annotate](./vision.vision_v1p1beta1.params_resource_images_annotate.md) |  |
-|  options | StreamMethodOptions \| BodyResponseCallback&lt;Readable&gt; |  |
-|  callback | BodyResponseCallback&lt;Readable&gt; |  |
+|  options | [StreamMethodOptions](./vision.streammethodoptions.md) \| [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;Readable&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;Readable&gt; |  |
 
 <b>Returns:</b>
 

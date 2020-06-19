@@ -15,7 +15,7 @@ annotate(params: Params$Resource$Files$Annotate, callback: BodyResponseCallback<
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Files$Annotate](./vision.vision_v1p2beta1.params_resource_files_annotate.md) |  |
-|  callback | BodyResponseCallback&lt;[Schema$GoogleCloudVisionV1p2beta1BatchAnnotateFilesResponse](./vision.vision_v1p2beta1.schema_googlecloudvisionv1p2beta1batchannotatefilesresponse.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$GoogleCloudVisionV1p2beta1BatchAnnotateFilesResponse](./vision.vision_v1p2beta1.schema_googlecloudvisionv1p2beta1batchannotatefilesresponse.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

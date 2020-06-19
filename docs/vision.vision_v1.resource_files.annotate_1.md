@@ -15,9 +15,9 @@ annotate(params?: Params$Resource$Files$Annotate, options?: MethodOptions): Gaxi
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Files$Annotate](./vision.vision_v1.params_resource_files_annotate.md) |  |
-|  options | MethodOptions |  |
+|  options | [MethodOptions](./vision.methodoptions.md) |  |
 
 <b>Returns:</b>
 
-GaxiosPromise&lt;[Schema$BatchAnnotateFilesResponse](./vision.vision_v1.schema_batchannotatefilesresponse.md)<!-- -->&gt;
+[GaxiosPromise](./vision.gaxiospromise.md)<!-- -->&lt;[Schema$BatchAnnotateFilesResponse](./vision.vision_v1.schema_batchannotatefilesresponse.md)<!-- -->&gt;
 

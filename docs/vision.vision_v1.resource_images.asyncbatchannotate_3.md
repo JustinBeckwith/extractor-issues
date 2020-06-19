@@ -15,8 +15,8 @@ asyncBatchAnnotate(params: Params$Resource$Images$Asyncbatchannotate, options: M
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Images$Asyncbatchannotate](./vision.vision_v1.params_resource_images_asyncbatchannotate.md) |  |
-|  options | MethodOptions \| BodyResponseCallback&lt;[Schema$Operation](./vision.vision_v1.schema_operation.md)<!-- -->&gt; |  |
-|  callback | BodyResponseCallback&lt;[Schema$Operation](./vision.vision_v1.schema_operation.md)<!-- -->&gt; |  |
+|  options | [MethodOptions](./vision.methodoptions.md) \| [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Operation](./vision.vision_v1.schema_operation.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Operation](./vision.vision_v1.schema_operation.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

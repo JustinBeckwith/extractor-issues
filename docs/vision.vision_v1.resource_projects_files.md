@@ -20,7 +20,7 @@ export class Resource$Projects$Files
 
 |  Property | Modifiers | Type | Description |
 |  --- | --- | --- | --- |
-|  [context](./vision.vision_v1.resource_projects_files.context.md) |  | APIRequestContext |  |
+|  [context](./vision.vision_v1.resource_projects_files.context.md) |  | [APIRequestContext](./vision.apirequestcontext.md) |  |
 
 ## Methods
 

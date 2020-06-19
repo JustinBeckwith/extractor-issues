@@ -15,7 +15,7 @@ annotate(params: Params$Resource$Projects$Images$Annotate, callback: BodyRespons
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Images$Annotate](./vision.vision_v1p2beta1.params_resource_projects_images_annotate.md) |  |
-|  callback | BodyResponseCallback&lt;[Schema$GoogleCloudVisionV1p2beta1BatchAnnotateImagesResponse](./vision.vision_v1p2beta1.schema_googlecloudvisionv1p2beta1batchannotateimagesresponse.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$GoogleCloudVisionV1p2beta1BatchAnnotateImagesResponse](./vision.vision_v1p2beta1.schema_googlecloudvisionv1p2beta1batchannotateimagesresponse.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

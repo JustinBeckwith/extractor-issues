@@ -15,9 +15,9 @@ list(params?: Params$Resource$Projects$Locations$Products$List, options?: Method
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Products$List](./vision.vision_v1.params_resource_projects_locations_products_list.md) |  |
-|  options | MethodOptions |  |
+|  options | [MethodOptions](./vision.methodoptions.md) |  |
 
 <b>Returns:</b>
 
-GaxiosPromise&lt;[Schema$ListProductsResponse](./vision.vision_v1.schema_listproductsresponse.md)<!-- -->&gt;
+[GaxiosPromise](./vision.gaxiospromise.md)<!-- -->&lt;[Schema$ListProductsResponse](./vision.vision_v1.schema_listproductsresponse.md)<!-- -->&gt;
 

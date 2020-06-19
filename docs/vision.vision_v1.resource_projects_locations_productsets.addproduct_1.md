@@ -15,9 +15,9 @@ addProduct(params?: Params$Resource$Projects$Locations$Productsets$Addproduct, o
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Productsets$Addproduct](./vision.vision_v1.params_resource_projects_locations_productsets_addproduct.md) |  |
-|  options | MethodOptions |  |
+|  options | [MethodOptions](./vision.methodoptions.md) |  |
 
 <b>Returns:</b>
 
-GaxiosPromise&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt;
+[GaxiosPromise](./vision.gaxiospromise.md)<!-- -->&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt;
 

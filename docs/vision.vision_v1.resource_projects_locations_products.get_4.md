@@ -15,7 +15,7 @@ get(params: Params$Resource$Projects$Locations$Products$Get, callback: BodyRespo
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Products$Get](./vision.vision_v1.params_resource_projects_locations_products_get.md) |  |
-|  callback | BodyResponseCallback&lt;[Schema$Product](./vision.vision_v1.schema_product.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Product](./vision.vision_v1.schema_product.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

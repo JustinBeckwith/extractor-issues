@@ -15,9 +15,9 @@ create(params?: Params$Resource$Projects$Locations$Products$Referenceimages$Crea
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Products$Referenceimages$Create](./vision.vision_v1.params_resource_projects_locations_products_referenceimages_create.md) |  |
-|  options | MethodOptions |  |
+|  options | [MethodOptions](./vision.methodoptions.md) |  |
 
 <b>Returns:</b>
 
-GaxiosPromise&lt;[Schema$ReferenceImage](./vision.vision_v1.schema_referenceimage.md)<!-- -->&gt;
+[GaxiosPromise](./vision.gaxiospromise.md)<!-- -->&lt;[Schema$ReferenceImage](./vision.vision_v1.schema_referenceimage.md)<!-- -->&gt;
 

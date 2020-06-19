@@ -34,7 +34,7 @@
   },
   "devDependencies": {
     "@microsoft/api-documenter": "^7.8.12",
-    "@microsoft/api-extractor": "^7.8.11",
+    "@microsoft/api-extractor": "^7.8.12",
     "gts": "^2.0.0",
     "null-loader": "^4.0.0",
     "ts-loader": "^7.0.0",

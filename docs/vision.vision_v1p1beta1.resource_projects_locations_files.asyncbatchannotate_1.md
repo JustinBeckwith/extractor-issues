@@ -15,9 +15,9 @@ asyncBatchAnnotate(params?: Params$Resource$Projects$Locations$Files$Asyncbatcha
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Projects$Locations$Files$Asyncbatchannotate](./vision.vision_v1p1beta1.params_resource_projects_locations_files_asyncbatchannotate.md) |  |
-|  options | MethodOptions |  |
+|  options | [MethodOptions](./vision.methodoptions.md) |  |
 
 <b>Returns:</b>
 
-GaxiosPromise&lt;[Schema$Operation](./vision.vision_v1p1beta1.schema_operation.md)<!-- -->&gt;
+[GaxiosPromise](./vision.gaxiospromise.md)<!-- -->&lt;[Schema$Operation](./vision.vision_v1p1beta1.schema_operation.md)<!-- -->&gt;
 

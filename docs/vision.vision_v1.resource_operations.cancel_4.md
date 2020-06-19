@@ -15,7 +15,7 @@ cancel(params: Params$Resource$Operations$Cancel, callback: BodyResponseCallback
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Operations$Cancel](./vision.vision_v1.params_resource_operations_cancel.md) |  |
-|  callback | BodyResponseCallback&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt; |  |
+|  callback | [BodyResponseCallback](./vision.bodyresponsecallback.md)<!-- -->&lt;[Schema$Empty](./vision.vision_v1.schema_empty.md)<!-- -->&gt; |  |
 
 <b>Returns:</b>
 

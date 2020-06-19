@@ -15,9 +15,9 @@ list(params?: Params$Resource$Operations$List, options?: MethodOptions): GaxiosP
 |  Parameter | Type | Description |
 |  --- | --- | --- |
 |  params | [Params$Resource$Operations$List](./vision.vision_v1.params_resource_operations_list.md) |  |
-|  options | MethodOptions |  |
+|  options | [MethodOptions](./vision.methodoptions.md) |  |
 
 <b>Returns:</b>
 
-GaxiosPromise&lt;[Schema$ListOperationsResponse](./vision.vision_v1.schema_listoperationsresponse.md)<!-- -->&gt;
+[GaxiosPromise](./vision.gaxiospromise.md)<!-- -->&lt;[Schema$ListOperationsResponse](./vision.vision_v1.schema_listoperationsresponse.md)<!-- -->&gt;
 

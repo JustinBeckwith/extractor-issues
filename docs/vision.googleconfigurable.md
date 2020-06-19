@@ -14,5 +14,5 @@ export interface GoogleConfigurable
 
 |  Property | Type | Description |
 |  --- | --- | --- |
-|  [\_options](./vision.googleconfigurable._options.md) | GlobalOptions |  |
+|  [\_options](./vision.googleconfigurable._options.md) | [GlobalOptions](./vision.globaloptions.md) |  |
 
